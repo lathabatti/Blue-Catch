@@ -1,0 +1,6 @@
+{
+  "name": "Blue Catch",
+  "description": "A comprehensive Fish Business ERP System managing suppliers, purchases, stock, sales, customers, expenses, deliveries, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
