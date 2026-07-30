@@ -1,0 +1,6 @@
+{
+  "name": "Blue Catch",
+  "description": "A Swiggy-like customer app for the Fish Business Management System including product browsing, cart, checkout, login, order history, and tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
