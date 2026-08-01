@@ -1,0 +1,6 @@
+{
+  "name": "Blue Catch",
+  "description": "The administrative control panel and systems monitor for the Blue Catch maritime business platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
