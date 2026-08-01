@@ -1,0 +1,6 @@
+{
+  "name": "Blue Catch",
+  "description": "Premium Delivery Module and Route Management for Fish Business and Logistics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
